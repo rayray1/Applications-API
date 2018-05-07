@@ -50,3 +50,5 @@ docker-compose up
 ## Docker Recommendations
 
 * If using docker on windows remember to add ip hostname to allowed hosts on settings
+
+(media/screenshot.png)
