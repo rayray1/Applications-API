@@ -11,8 +11,8 @@ android applications.
 
 ## First-time setup
 
-1.  Make sure Python 3.6x and Pipenv are already installed.
-2.  Clone the repo and configure the virtualenv:
+1.  Make sure Python 3.6x and Pipenv are already installed
+2.  Clone the repo and configure the virtualenv
 
 ```
 git clone https://github.com/rayray1/python-applications-api.git
@@ -21,14 +21,14 @@ pipenv install
 pipenv shell
 ```
 
-3.  Set up the initial migration and build the database.
+3.  Set up the initial migration and build the database
 
 ```
 python manage.py makemigrations applications
 python manage.py migrate
 ```
 
-4.  Confirm everything is working:
+4.  Confirm everything is working
 
 ```
 python manage.py runserver
@@ -39,7 +39,7 @@ Load the site at http://127.0.0.1:8000/api/applications
 
 # DOCKER
 
-To run api application with docker:
+To run api application with docker
 
 ```
 cd python-applications-api
