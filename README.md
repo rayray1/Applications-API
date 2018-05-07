@@ -51,4 +51,5 @@ docker-compose up
 
 * If using docker on windows remember to add ip hostname to allowed hosts on settings
 
-(media/screenshot.png)
+![](media/screenshot.png)
+<!-- ![screenshot](media/screenshot.png) -->
