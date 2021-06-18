@@ -1,6 +1,6 @@
 certifi==2018.1.18
 chardet==3.0.4
-contentful==1.5.0
+contentful==1.12.4
 Django==2.0.5
 djangorestframework==3.8.2
 flake8==3.5.0
